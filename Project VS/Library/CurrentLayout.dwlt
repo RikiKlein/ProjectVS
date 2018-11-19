@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 3}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -68,7 +68,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &4
 MonoBehaviour:
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 787, y: 492}
   m_MaxSize: {x: 16012, y: 14042}
   vertical: 0
-  controlID: 70
+  controlID: 33
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -158,7 +158,7 @@ MonoBehaviour:
   m_MinSize: {x: 510, y: 492}
   m_MaxSize: {x: 12010, y: 14042}
   vertical: 1
-  controlID: 71
+  controlID: 34
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,7 +183,7 @@ MonoBehaviour:
   m_MinSize: {x: 510, y: 221}
   m_MaxSize: {x: 12010, y: 4021}
   vertical: 0
-  controlID: 72
+  controlID: 35
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -396,9 +396,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: e4fbffff00000000
+    m_SelectedIDs: 762d0000
+    m_LastClickedID: 11638
+    m_ExpandedIDs: 3216feff481efeff0ac0feffe4fbffff000000006c2d0000762d0000902d0000b62d0000ca2d0000e62d0000162e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -448,14 +448,14 @@ MonoBehaviour:
     height: 650
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 14429.48003911679
+  lastFramingTime: 883.1801772998607
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 47.5574, y: 484.7961, z: 0.15689486}
+    m_Target: {x: 203.32623, y: 552.6842, z: 0}
     speed: 2
-    m_Value: {x: 47.5574, y: 484.7961, z: 0.15689486}
+    m_Value: {x: 203.32623, y: 552.6842, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -487,9 +487,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 183.75487
+    m_Target: 122.79182
     speed: 2
-    m_Value: 183.75487
+    m_Value: 122.79182
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -605,19 +605,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/3D Objects/Prefabs
+    - Assets/Materials/Textures
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/3D Objects/Prefabs
+  - Assets/Materials/Textures
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: W:\School Of Games\Project VS\Project VS
+  m_LastProjectPath: W:\School Of Games\Project VS\ProjectVS\Project VS
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4a2a0000
-    m_LastClickedID: 10826
+    m_SelectedIDs: 782c0000
+    m_LastClickedID: 11384
     m_ExpandedIDs: 000000000c2a0000562b0000662c0000b62c0000662e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
